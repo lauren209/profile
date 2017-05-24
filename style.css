@@ -1,0 +1,65 @@
+h1, h2, h3{
+  color: #b30077;
+}
+body{
+  background-color: #ffccee;
+  color: #e60099;
+  font-family: 'Raleway';
+}
+a{
+  color: #ff00aa;
+  text-decoration: none;
+}
+a:hover{
+  color: #4d0033;
+}
+
+table tr{
+  padding-bottom: 50px;
+  display: inline-block;
+}
+table td{
+  padding: 10px;
+}
+ul{
+  margin-left: -40px;
+  display: inline-block;
+
+}
+li{
+  list-style: none;
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+}
+#table{
+  padding-bottom: 0px;
+}
+#button_border{
+  padding:10px;
+  border: dotted;
+}
+.container{
+  width: 800px;
+  margin: 0 auto;
+}
+.card{
+  border: 2px solid;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: white;
+  margin: 50px;
+  width: 600px;
+  text-align: center;
+}
+.image_circle{
+  height: 200px;
+  border-radius: 50%
+}
+.image_size{
+  height: 200px;
+}
+.symboll {
+  font-size: 50px;
+}
+
